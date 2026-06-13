@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Class 8 Holiday Homework</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: linear-gradient(to right, #74ebd5, #ACB6E5);
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+    nav {
+      background: #444;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    section {
+      padding: 20px;
+    }
+    h2 {
+      color: #333;
+    }
+    footer {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Class 8 Holiday Homework</h1>
+    <p>Welcome to my project website!</p>
+  </header>
+
+  <nav>
+    <a href="#math">Math</a>
+    <a href="#science">Science</a>
+    <a href="#english">English</a>
+    <a href="#social">Social Studies</a>
+  </nav>
+
+  <section id="math">
+    <h2>📘 Math Homework</h2>
+    <p>Practice 20 problems from Algebra and Geometry. Prepare a chart of formulas.</p>
+  </section>
+
+  <section id="science">
+    <h2>🔬 Science Homework</h2>
+    <p>Make a project on Renewable Energy. Collect pictures and write a short report.</p>
+  </section>
+
+  <section id="english">
+    <h2>📖 English Homework</h2>
+    <p>Write a short story (500 words) and learn 20 new vocabulary words.</p>
+  </section>
+
+  <section id="social">
+    <h2>🌍 Social Studies Homework</h2>
+    <p>Prepare a timeline of Indian Independence Movement with important dates.</p>
+  </section>
+
+  <footer>
+    <p>Made by Aayansh | Class 8 Project</p>
+  </footer>
+</body>
+</html>
